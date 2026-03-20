@@ -989,7 +989,7 @@ export default function HomePage() {
             {/* Info */}
             <div className="reveal-left space-y-6">
               {[
-                { icon: Phone, label: "Phone", value: "+91 98765 43210" },
+                { icon: Phone, label: "Phone", value: "+91 79964 01388" },
                 {
                   icon: Mail,
                   label: "Email",
@@ -998,7 +998,8 @@ export default function HomePage() {
                 {
                   icon: MapPin,
                   label: "Address",
-                  value: "New Delhi, India – 110001",
+                  value:
+                    "Ishwar Nagar, Laxmeshwar, Dist. Gadag, Karnataka – 582116",
                 },
               ].map(({ icon: Icon, label, value }) => (
                 <div key={label} className="flex items-start gap-4">
@@ -1115,7 +1116,7 @@ export default function HomePage() {
 
       {/* WhatsApp Float */}
       <a
-        href="https://wa.me/919876543210"
+        href="https://wa.me/917996401388"
         target="_blank"
         rel="noopener noreferrer"
         className="whatsapp-float"

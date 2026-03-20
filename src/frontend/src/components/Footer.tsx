@@ -97,7 +97,7 @@ export default function Footer() {
             <ul className="space-y-3 text-blue-200 text-sm">
               <li className="flex items-start gap-2">
                 <Phone className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                <span>+91 98765 43210</span>
+                <span>+91 79964 01388</span>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 mt-0.5 flex-shrink-0" />
@@ -105,7 +105,9 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                <span>New Delhi, India – 110001</span>
+                <span>
+                  Ishwar Nagar, Laxmeshwar, Dist. Gadag, Karnataka – 582116
+                </span>
               </li>
             </ul>
           </div>
